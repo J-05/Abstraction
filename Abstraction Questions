@@ -1,0 +1,16 @@
+---------------------------------------------------------------------
+ALGORITHM
+
+1. Write the word backwards.
+2. Check if all letters and their index are identical.
+3. If so then it is a palindrome.
+
+---------------------------------------------------------------------
+RESEARCH
+
+Other uses of abstraction in computing:
+1. User interface design
+2. Writing programs
+3. Desgining programs
+
+---------------------------------------------------------------------
